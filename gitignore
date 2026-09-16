@@ -1,0 +1,13 @@
+node_modules/
+.env/\
+.env.local
+.next/
+.build/
+.dist/
+.out/
+.DS_Store
+.log
+.swp
+*.swo
+.idea/
+
